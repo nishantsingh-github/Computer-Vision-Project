@@ -1,0 +1,6 @@
+Some python Library requred for project
+
+1.Computer Vision - pip install opencv-python
+2.Face Recogination -pip install Face Recogination
+3.Pandas -pip install Pandas
+4.Date Time -pip install Date time
